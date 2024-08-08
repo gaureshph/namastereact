@@ -1,0 +1,29 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "My Fork",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaureshph/namastereact.git"
+  },
+  "keywords": [
+    "react",
+    "namaste",
+    "react",
+    "Gouresh",
+    "Phadke"
+  ],
+  "author": "Gouresh Phadke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaureshph/namastereact/issues"
+  },
+  "homepage": "https://github.com/gaureshph/namastereact#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
